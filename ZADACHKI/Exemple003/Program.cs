@@ -5,7 +5,7 @@
         int[] array = new int[20];
         CreateMassiv_1(array);
         PrintMassiv_1(array, 625);
-        int n = 25;
+        //int n = 25;
 
         void CreateMassiv_1(int[] mass)
         {
